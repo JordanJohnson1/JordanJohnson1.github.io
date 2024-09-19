@@ -1,4 +1,4 @@
 # JordanJohnson1.github.io
-theme: jekyll-theme-minimal
-title: JordanJohnson1's homepage
-description: This is my github homepage!
+
+JordanJohnson1's homepage
+   This is my github homepage!
